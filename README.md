@@ -16,7 +16,13 @@ Praticar testes automatizados E2E, validando cenários positivos e negativos.
 - Login inválido
 - Validação de erro
 - Interação com elementos da página
+## Estratégia de testes
 
+Os testes foram criados considerando:
+- Cenários positivos (fluxo correto)
+- Cenários negativos (validação de erro)
+- Validação de comportamento da aplicação
+  
 ## Tecnologias utilizadas
 
 - Playwright
